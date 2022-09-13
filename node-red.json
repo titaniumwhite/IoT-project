@@ -1,0 +1,1 @@
+[{"id":"ee07750.867d808","type":"function","z":"dfbec530.bc89a8","name":"Filter ALERT messages","func":"if(msg.payload.slice(0, 5) == \"ALERT\")\n    return msg;","outputs":1,"noerr":0,"x":430,"y":220,"wires":[["34354540.69637a"]]}]

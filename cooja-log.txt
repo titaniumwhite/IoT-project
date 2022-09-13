@@ -1,0 +1,1014 @@
+00:04.320	ID:2	Application correctly booted.
+00:04.323	ID:2	Parent: pairing phase started
+00:04.432	ID:4	Application correctly booted.
+00:04.435	ID:4	Parent: pairing phase started
+00:04.466	ID:1	Application correctly booted.
+00:04.469	ID:1	Child: pairing phase started
+00:04.816	ID:2	Radio: pairing packet sent to bracelet KGXQBDgRlJLF92jbKw58
+00:04.826	ID:1	Radio: message for pairing initialization received (phase 0). Address: 2
+00:04.830	ID:1	Radio: sending pairing confirmation to node 2
+00:04.837	ID:1	Radio: pairing ack received
+00:04.838	ID:2	Radio: message for pairing confirmation received (phase 1)
+00:04.928	ID:4	Radio: pairing packet sent to bracelet Xq7sVPILQUpdMuEGM1nN
+00:04.962	ID:1	Radio: pairing packet sent to bracelet KGXQBDgRlJLF92jbKw58
+00:04.970	ID:2	Radio: message for pairing initialization received (phase 0). Address: 1
+00:04.974	ID:2	Radio: sending pairing confirmation to node 1
+00:04.977	ID:1	Radio: info ack not received, send info message again
+00:04.977	ID:2	Radio: pairing ack received
+00:04.981	ID:1	Radio: message sent to bracelet 2, attempt number 1
+00:04.983	ID:3	Application correctly booted.
+00:04.983	ID:1	Radio: message for pairing confirmation received (phase 1)
+00:04.986	ID:3	Child: pairing phase started
+00:04.992	ID:1	Radio: info ack received
+00:04.993	ID:2	Radio: message received
+00:04.994	ID:2	Child is STANDING [0]
+00:04.995	ID:2	x: 22963, y: 6228
+00:05.416	ID:4	Radio: pairing packet sent to bracelet Xq7sVPILQUpdMuEGM1nN
+00:05.430	ID:3	Radio: message for pairing initialization received (phase 0). Address: 4
+00:05.434	ID:3	Radio: sending pairing confirmation to node 4
+00:05.441	ID:3	Radio: pairing ack received
+00:05.442	ID:4	Radio: message for pairing confirmation received (phase 1)
+00:05.479	ID:3	Radio: pairing packet sent to bracelet Xq7sVPILQUpdMuEGM1nN
+00:05.490	ID:4	Radio: message for pairing initialization received (phase 0). Address: 3
+00:05.494	ID:4	Radio: sending pairing confirmation to node 3
+00:05.495	ID:3	Radio: info ack not received, send info message again
+00:05.501	ID:3	Radio: message sent to bracelet 4, attempt number 1
+00:05.502	ID:4	Radio: pairing ack received
+00:05.504	ID:3	Radio: message for pairing confirmation received (phase 1)
+00:05.507	ID:3	Radio: info ack received
+00:05.507	ID:4	Radio: message received
+00:05.508	ID:4	Child is STANDING [0]
+00:05.509	ID:4	x: -19609, y: 12457
+00:14.603	ID:1	Timer10: fired
+00:14.608	ID:1	Radio: message sent to bracelet 2, attempt number 1
+00:14.611	ID:1	Radio: info ack received
+00:14.611	ID:2	Radio: message received
+00:14.612	ID:2	ALERT: CHILD FALLING [3]
+00:14.613	ID:2	x: 7600, y: 5117
+00:15.207	ID:3	Timer10: fired
+00:15.211	ID:3	Radio: message sent to bracelet 4, attempt number 1
+00:15.216	ID:3	Radio: info ack received
+00:15.216	ID:4	Radio: message received
+00:15.217	ID:4	Child is RUNNING [2]
+00:15.219	ID:4	x: 15200, y: 10234
+00:24.368	ID:1	Timer10: fired
+00:24.373	ID:1	Radio: message sent to bracelet 2, attempt number 1
+00:24.382	ID:1	Radio: info ack received
+00:24.382	ID:2	Radio: message received
+00:24.384	ID:2	Child is RUNNING [2]
+00:24.385	ID:2	x: 12592, y: 30891
+00:24.972	ID:3	Timer10: fired
+00:24.977	ID:3	Radio: message sent to bracelet 4, attempt number 1
+00:24.980	ID:3	Radio: info ack received
+00:24.980	ID:4	Radio: message received
+00:24.981	ID:4	Child is WALKING [1]
+00:24.983	ID:4	x: 25185, y: -3754
+00:34.134	ID:1	Timer10: fired
+00:34.138	ID:1	Radio: message sent to bracelet 2, attempt number 1
+00:34.145	ID:1	Radio: info ack received
+00:34.145	ID:2	Radio: message received
+00:34.146	ID:2	Child is STANDING [0]
+00:34.148	ID:2	x: -22170, y: 28303
+00:34.738	ID:3	Timer10: fired
+00:34.742	ID:3	Radio: message sent to bracelet 4, attempt number 1
+00:34.757	ID:3	Radio: info ack not received, send info message again
+00:34.761	ID:3	Radio: message sent to bracelet 4, attempt number 2
+00:34.774	ID:3	Radio: info ack not received, send info message again
+00:34.778	ID:3	Radio: message sent to bracelet 4, attempt number 3
+00:34.794	ID:3	Radio: info ack not received, 3 attempts already tried
+00:43.900	ID:1	Timer10: fired
+00:43.905	ID:1	Radio: message sent to bracelet 2, attempt number 1
+00:43.908	ID:1	Radio: info ack received
+00:43.908	ID:2	Radio: message received
+00:43.909	ID:2	Child is RUNNING [2]
+00:43.911	ID:2	x: -30928, y: -27992
+00:44.504	ID:3	Timer10: fired
+00:44.508	ID:3	Radio: message sent to bracelet 4, attempt number 1
+00:44.526	ID:3	Radio: info ack not received, send info message again
+00:44.530	ID:3	Radio: message sent to bracelet 4, attempt number 2
+00:44.548	ID:3	Radio: info ack not received, send info message again
+00:44.552	ID:3	Radio: message sent to bracelet 4, attempt number 3
+00:44.569	ID:3	Radio: info ack not received, 3 attempts already tried
+00:53.665	ID:1	Timer10: fired
+00:53.670	ID:1	Radio: message sent to bracelet 2, attempt number 1
+00:53.673	ID:1	Radio: info ack received
+00:53.673	ID:2	Radio: message received
+00:53.674	ID:2	Child is RUNNING [2]
+00:53.675	ID:2	x: 11355, y: 5643
+00:54.269	ID:3	Timer10: fired
+00:54.274	ID:3	Radio: message sent to bracelet 4, attempt number 1
+00:54.290	ID:3	Radio: info ack not received, send info message again
+00:54.294	ID:3	Radio: message sent to bracelet 4, attempt number 2
+00:54.311	ID:3	Radio: info ack not received, send info message again
+00:54.316	ID:3	Radio: message sent to bracelet 4, attempt number 3
+00:54.333	ID:3	Radio: info ack not received, 3 attempts already tried
+01:03.431	ID:1	Timer10: fired
+01:03.435	ID:1	Radio: message sent to bracelet 2, attempt number 1
+01:03.447	ID:1	Radio: info ack received
+01:03.447	ID:2	Radio: message received
+01:03.448	ID:2	Child is STANDING [0]
+01:03.449	ID:2	x: 726, y: 15277
+01:04.035	ID:3	Timer10: fired
+01:04.039	ID:3	Radio: message sent to bracelet 4, attempt number 1
+01:04.055	ID:3	Radio: info ack not received, send info message again
+01:04.059	ID:3	Radio: message sent to bracelet 4, attempt number 2
+01:04.077	ID:3	Radio: info ack not received, send info message again
+01:04.081	ID:3	Radio: message sent to bracelet 4, attempt number 3
+01:04.095	ID:3	Radio: info ack not received, 3 attempts already tried
+01:13.196	ID:1	Timer10: fired
+01:13.201	ID:1	Radio: message sent to bracelet 2, attempt number 1
+01:13.204	ID:1	Radio: info ack received
+01:13.205	ID:2	Radio: message received
+01:13.206	ID:2	Child is WALKING [1]
+01:13.207	ID:2	x: -14029, y: 26917
+01:13.801	ID:3	Timer10: fired
+01:13.805	ID:3	Radio: message sent to bracelet 4, attempt number 1
+01:13.817	ID:3	Radio: info ack not received, send info message again
+01:13.821	ID:3	Radio: message sent to bracelet 4, attempt number 2
+01:13.838	ID:3	Radio: info ack not received, send info message again
+01:13.843	ID:3	Radio: message sent to bracelet 4, attempt number 3
+01:13.862	ID:3	Radio: info ack not received, 3 attempts already tried
+01:22.962	ID:1	Timer10: fired
+01:22.966	ID:1	Radio: message sent to bracelet 2, attempt number 1
+01:22.977	ID:1	Radio: info ack received
+01:22.977	ID:2	Radio: message received
+01:22.978	ID:2	ALERT: CHILD FALLING [3]
+01:22.980	ID:2	x: -9019, y: 10370
+01:23.566	ID:3	Timer10: fired
+01:23.570	ID:3	Radio: message sent to bracelet 4, attempt number 1
+01:23.575	ID:4	Timer60: fired
+01:23.575	ID:4	ALERT: CHILD MISSING
+01:23.578	ID:4	Last known position x: 25185, y: -3754
+01:23.585	ID:3	Radio: info ack not received, send info message again
+01:23.589	ID:3	Radio: message sent to bracelet 4, attempt number 2
+01:23.602	ID:3	Radio: info ack not received, send info message again
+01:23.606	ID:3	Radio: message sent to bracelet 4, attempt number 3
+01:23.624	ID:3	Radio: info ack not received, 3 attempts already tried
+01:32.728	ID:1	Timer10: fired
+01:32.732	ID:1	Radio: message sent to bracelet 2, attempt number 1
+01:32.750	ID:1	Radio: info ack not received, send info message again
+01:32.754	ID:1	Radio: message sent to bracelet 2, attempt number 2
+01:32.769	ID:1	Radio: info ack not received, send info message again
+01:32.774	ID:1	Radio: message sent to bracelet 2, attempt number 3
+01:32.784	ID:1	Radio: info ack not received, 3 attempts already tried
+01:33.332	ID:3	Timer10: fired
+01:33.337	ID:3	Radio: message sent to bracelet 4, attempt number 1
+01:33.347	ID:3	Radio: info ack not received, send info message again
+01:33.351	ID:3	Radio: message sent to bracelet 4, attempt number 2
+01:33.365	ID:3	Radio: info ack not received, send info message again
+01:33.370	ID:3	Radio: message sent to bracelet 4, attempt number 3
+01:33.379	ID:3	Radio: info ack not received, 3 attempts already tried
+01:42.493	ID:1	Timer10: fired
+01:42.498	ID:1	Radio: message sent to bracelet 2, attempt number 1
+01:42.510	ID:1	Radio: info ack not received, send info message again
+01:42.515	ID:1	Radio: message sent to bracelet 2, attempt number 2
+01:42.530	ID:1	Radio: info ack not received, send info message again
+01:42.535	ID:1	Radio: message sent to bracelet 2, attempt number 3
+01:42.546	ID:1	Radio: info ack not received, 3 attempts already tried
+01:43.097	ID:3	Timer10: fired
+01:43.102	ID:3	Radio: message sent to bracelet 4, attempt number 1
+01:43.120	ID:3	Radio: info ack not received, send info message again
+01:43.125	ID:3	Radio: message sent to bracelet 4, attempt number 2
+01:43.140	ID:3	Radio: info ack not received, send info message again
+01:43.145	ID:3	Radio: message sent to bracelet 4, attempt number 3
+01:43.156	ID:3	Radio: info ack not received, 3 attempts already tried
+01:52.259	ID:1	Timer10: fired
+01:52.264	ID:1	Radio: message sent to bracelet 2, attempt number 1
+01:52.274	ID:1	Radio: info ack not received, send info message again
+01:52.279	ID:1	Radio: message sent to bracelet 2, attempt number 2
+01:52.292	ID:1	Radio: info ack not received, send info message again
+01:52.296	ID:1	Radio: message sent to bracelet 2, attempt number 3
+01:52.313	ID:1	Radio: info ack not received, 3 attempts already tried
+01:52.863	ID:3	Timer10: fired
+01:52.868	ID:3	Radio: message sent to bracelet 4, attempt number 1
+01:52.878	ID:3	Radio: info ack not received, send info message again
+01:52.883	ID:3	Radio: message sent to bracelet 4, attempt number 2
+01:52.893	ID:3	Radio: info ack not received, send info message again
+01:52.897	ID:3	Radio: message sent to bracelet 4, attempt number 3
+01:52.915	ID:3	Radio: info ack not received, 3 attempts already tried
+02:02.025	ID:1	Timer10: fired
+02:02.029	ID:1	Radio: message sent to bracelet 2, attempt number 1
+02:02.041	ID:1	Radio: info ack not received, send info message again
+02:02.045	ID:1	Radio: message sent to bracelet 2, attempt number 2
+02:02.063	ID:1	Radio: info ack not received, send info message again
+02:02.068	ID:1	Radio: message sent to bracelet 2, attempt number 3
+02:02.078	ID:1	Radio: info ack not received, 3 attempts already tried
+02:02.629	ID:3	Timer10: fired
+02:02.634	ID:3	Radio: message sent to bracelet 4, attempt number 1
+02:02.637	ID:3	Radio: info ack received
+02:02.637	ID:4	Radio: message received
+02:02.638	ID:4	Child is RUNNING [2]
+02:02.640	ID:4	x: 10728, y: 16161
+02:11.790	ID:1	Timer10: fired
+02:11.795	ID:1	Radio: message sent to bracelet 2, attempt number 1
+02:11.805	ID:1	Radio: info ack not received, send info message again
+02:11.809	ID:1	Radio: message sent to bracelet 2, attempt number 2
+02:11.823	ID:1	Radio: info ack not received, send info message again
+02:11.828	ID:1	Radio: message sent to bracelet 2, attempt number 3
+02:11.837	ID:1	Radio: info ack not received, 3 attempts already tried
+02:12.394	ID:3	Timer10: fired
+02:12.399	ID:3	Radio: message sent to bracelet 4, attempt number 1
+02:12.407	ID:3	Radio: info ack received
+02:12.407	ID:4	Radio: message received
+02:12.408	ID:4	Child is WALKING [1]
+02:12.410	ID:4	x: 4903, y: -26936
+02:21.556	ID:1	Timer10: fired
+02:21.560	ID:1	Radio: message sent to bracelet 2, attempt number 1
+02:21.571	ID:2	Timer60: fired
+02:21.572	ID:2	ALERT: CHILD MISSING
+02:21.574	ID:2	Last known position x: -9019, y: 10370
+02:21.574	ID:1	Radio: info ack not received, send info message again
+02:21.579	ID:1	Radio: message sent to bracelet 2, attempt number 2
+02:21.598	ID:1	Radio: info ack not received, send info message again
+02:21.603	ID:1	Radio: message sent to bracelet 2, attempt number 3
+02:21.613	ID:1	Radio: info ack not received, 3 attempts already tried
+02:22.160	ID:3	Timer10: fired
+02:22.164	ID:3	Radio: message sent to bracelet 4, attempt number 1
+02:22.175	ID:3	Radio: info ack received
+02:22.175	ID:4	Radio: message received
+02:22.176	ID:4	Child is WALKING [1]
+02:22.178	ID:4	x: -23589, y: -23850
+02:31.321	ID:1	Timer10: fired
+02:31.326	ID:1	Radio: message sent to bracelet 2, attempt number 1
+02:31.341	ID:1	Radio: info ack not received, send info message again
+02:31.345	ID:1	Radio: message sent to bracelet 2, attempt number 2
+02:31.362	ID:1	Radio: info ack not received, send info message again
+02:31.366	ID:1	Radio: message sent to bracelet 2, attempt number 3
+02:31.380	ID:1	Radio: info ack not received, 3 attempts already tried
+02:31.926	ID:3	Timer10: fired
+02:31.930	ID:3	Radio: message sent to bracelet 4, attempt number 1
+02:31.935	ID:3	Radio: info ack received
+02:31.935	ID:4	Radio: message received
+02:31.936	ID:4	ALERT: CHILD FALLING [3]
+02:31.938	ID:4	x: -32451, y: -4235
+02:41.087	ID:1	Timer10: fired
+02:41.091	ID:1	Radio: message sent to bracelet 2, attempt number 1
+02:41.108	ID:1	Radio: info ack not received, send info message again
+02:41.113	ID:1	Radio: message sent to bracelet 2, attempt number 2
+02:41.125	ID:1	Radio: info ack not received, send info message again
+02:41.130	ID:1	Radio: message sent to bracelet 2, attempt number 3
+02:41.141	ID:1	Radio: info ack not received, 3 attempts already tried
+02:41.691	ID:3	Timer10: fired
+02:41.696	ID:3	Radio: message sent to bracelet 4, attempt number 1
+02:41.699	ID:3	Radio: info ack received
+02:41.699	ID:4	Radio: message received
+02:41.700	ID:4	Child is RUNNING [2]
+02:41.702	ID:4	x: -18018, y: 19191
+02:50.853	ID:1	Timer10: fired
+02:50.857	ID:1	Radio: message sent to bracelet 2, attempt number 1
+02:50.875	ID:1	Radio: info ack not received, send info message again
+02:50.879	ID:1	Radio: message sent to bracelet 2, attempt number 2
+02:50.891	ID:1	Radio: info ack not received, send info message again
+02:50.895	ID:1	Radio: message sent to bracelet 2, attempt number 3
+02:50.909	ID:1	Radio: info ack not received, 3 attempts already tried
+02:51.457	ID:3	Timer10: fired
+02:51.461	ID:3	Radio: message sent to bracelet 4, attempt number 1
+02:51.469	ID:3	Radio: info ack received
+02:51.469	ID:4	Radio: message received
+02:51.470	ID:4	ALERT: CHILD FALLING [3]
+02:51.472	ID:4	x: 12234, y: -31356
+03:00.618	ID:1	Timer10: fired
+03:00.623	ID:1	Radio: message sent to bracelet 2, attempt number 1
+03:00.627	ID:1	Radio: info ack received
+03:00.627	ID:2	Radio: message received
+03:00.628	ID:2	Child is STANDING [0]
+03:00.630	ID:2	x: 19696, y: 13103
+03:01.222	ID:3	Timer10: fired
+03:01.227	ID:3	Radio: message sent to bracelet 4, attempt number 1
+03:01.233	ID:3	Radio: info ack received
+03:01.233	ID:4	Radio: message received
+03:01.234	ID:4	Child is WALKING [1]
+03:01.236	ID:4	x: -26144, y: 26206
+03:10.384	ID:1	Timer10: fired
+03:10.388	ID:1	Radio: message sent to bracelet 2, attempt number 1
+03:10.399	ID:1	Radio: info ack received
+03:10.399	ID:2	Radio: message received
+03:10.400	ID:2	Child is RUNNING [2]
+03:10.402	ID:2	x: -19352, y: 21701
+03:10.988	ID:3	Timer10: fired
+03:10.992	ID:3	Radio: message sent to bracelet 4, attempt number 1
+03:11.002	ID:3	Radio: info ack received
+03:11.002	ID:4	Radio: message received
+03:11.003	ID:4	Child is RUNNING [2]
+03:11.004	ID:4	x: 26833, y: -22133
+03:20.150	ID:1	Timer10: fired
+03:20.154	ID:1	Radio: message sent to bracelet 2, attempt number 1
+03:20.168	ID:1	Radio: info ack not received, send info message again
+03:20.173	ID:1	Radio: message sent to bracelet 2, attempt number 2
+03:20.191	ID:1	Radio: info ack not received, send info message again
+03:20.195	ID:1	Radio: message sent to bracelet 2, attempt number 3
+03:20.212	ID:1	Radio: info ack not received, 3 attempts already tried
+03:20.754	ID:3	Timer10: fired
+03:20.758	ID:3	Radio: message sent to bracelet 4, attempt number 1
+03:20.773	ID:3	Radio: info ack not received, send info message again
+03:20.777	ID:3	Radio: message sent to bracelet 4, attempt number 2
+03:20.795	ID:3	Radio: info ack not received, send info message again
+03:20.799	ID:3	Radio: message sent to bracelet 4, attempt number 3
+03:20.813	ID:3	Radio: info ack not received, 3 attempts already tried
+03:29.915	ID:1	Timer10: fired
+03:29.920	ID:1	Radio: message sent to bracelet 2, attempt number 1
+03:29.931	ID:1	Radio: info ack not received, send info message again
+03:29.935	ID:1	Radio: message sent to bracelet 2, attempt number 2
+03:29.949	ID:1	Radio: info ack not received, send info message again
+03:29.954	ID:1	Radio: message sent to bracelet 2, attempt number 3
+03:29.969	ID:1	Radio: info ack not received, 3 attempts already tried
+03:30.519	ID:3	Timer10: fired
+03:30.524	ID:3	Radio: message sent to bracelet 4, attempt number 1
+03:30.536	ID:3	Radio: info ack not received, send info message again
+03:30.541	ID:3	Radio: message sent to bracelet 4, attempt number 2
+03:30.556	ID:3	Radio: info ack not received, send info message again
+03:30.560	ID:3	Radio: message sent to bracelet 4, attempt number 3
+03:30.576	ID:3	Radio: info ack not received, 3 attempts already tried
+03:39.681	ID:1	Timer10: fired
+03:39.685	ID:1	Radio: message sent to bracelet 2, attempt number 1
+03:39.700	ID:1	Radio: info ack not received, send info message again
+03:39.704	ID:1	Radio: message sent to bracelet 2, attempt number 2
+03:39.719	ID:1	Radio: info ack not received, send info message again
+03:39.723	ID:1	Radio: message sent to bracelet 2, attempt number 3
+03:39.739	ID:1	Radio: info ack not received, 3 attempts already tried
+03:40.285	ID:3	Timer10: fired
+03:40.289	ID:3	Radio: message sent to bracelet 4, attempt number 1
+03:40.305	ID:3	Radio: info ack not received, send info message again
+03:40.310	ID:3	Radio: message sent to bracelet 4, attempt number 2
+03:40.326	ID:3	Radio: info ack not received, send info message again
+03:40.331	ID:3	Radio: message sent to bracelet 4, attempt number 3
+03:40.341	ID:3	Radio: info ack not received, 3 attempts already tried
+03:49.446	ID:1	Timer10: fired
+03:49.451	ID:1	Radio: message sent to bracelet 2, attempt number 1
+03:49.470	ID:1	Radio: info ack not received, send info message again
+03:49.474	ID:1	Radio: message sent to bracelet 2, attempt number 2
+03:49.489	ID:1	Radio: info ack not received, send info message again
+03:49.493	ID:1	Radio: message sent to bracelet 2, attempt number 3
+03:49.506	ID:1	Radio: info ack not received, 3 attempts already tried
+03:50.051	ID:3	Timer10: fired
+03:50.055	ID:3	Radio: message sent to bracelet 4, attempt number 1
+03:50.069	ID:3	Radio: info ack not received, send info message again
+03:50.074	ID:3	Radio: message sent to bracelet 4, attempt number 2
+03:50.085	ID:3	Radio: info ack not received, send info message again
+03:50.089	ID:3	Radio: message sent to bracelet 4, attempt number 3
+03:50.100	ID:3	Radio: info ack not received, 3 attempts already tried
+03:59.212	ID:1	Timer10: fired
+03:59.216	ID:1	Radio: message sent to bracelet 2, attempt number 1
+03:59.231	ID:1	Radio: info ack not received, send info message again
+03:59.235	ID:1	Radio: message sent to bracelet 2, attempt number 2
+03:59.254	ID:1	Radio: info ack not received, send info message again
+03:59.258	ID:1	Radio: message sent to bracelet 2, attempt number 3
+03:59.270	ID:1	Radio: info ack not received, 3 attempts already tried
+03:59.816	ID:3	Timer10: fired
+03:59.820	ID:3	Radio: message sent to bracelet 4, attempt number 1
+03:59.836	ID:3	Radio: info ack not received, send info message again
+03:59.840	ID:3	Radio: message sent to bracelet 4, attempt number 2
+03:59.854	ID:3	Radio: info ack not received, send info message again
+03:59.859	ID:3	Radio: message sent to bracelet 4, attempt number 3
+03:59.869	ID:3	Radio: info ack not received, 3 attempts already tried
+04:08.978	ID:1	Timer10: fired
+04:08.982	ID:1	Radio: message sent to bracelet 2, attempt number 1
+04:08.993	ID:2	Timer60: fired
+04:08.993	ID:2	ALERT: CHILD MISSING
+04:08.996	ID:2	Last known position x: -19352, y: 21701
+04:08.997	ID:1	Radio: info ack not received, send info message again
+04:09.002	ID:1	Radio: message sent to bracelet 2, attempt number 2
+04:09.016	ID:1	Radio: info ack not received, send info message again
+04:09.021	ID:1	Radio: message sent to bracelet 2, attempt number 3
+04:09.031	ID:1	Radio: info ack not received, 3 attempts already tried
+04:09.582	ID:3	Timer10: fired
+04:09.586	ID:3	Radio: message sent to bracelet 4, attempt number 1
+04:09.595	ID:4	Timer60: fired
+04:09.596	ID:4	ALERT: CHILD MISSING
+04:09.598	ID:4	Last known position x: 26833, y: -22133
+04:09.603	ID:3	Radio: info ack not received, send info message again
+04:09.607	ID:3	Radio: message sent to bracelet 4, attempt number 2
+04:09.622	ID:3	Radio: info ack not received, send info message again
+04:09.627	ID:3	Radio: message sent to bracelet 4, attempt number 3
+04:09.638	ID:3	Radio: info ack not received, 3 attempts already tried
+04:18.743	ID:1	Timer10: fired
+04:18.748	ID:1	Radio: message sent to bracelet 2, attempt number 1
+04:18.764	ID:1	Radio: info ack not received, send info message again
+04:18.768	ID:1	Radio: message sent to bracelet 2, attempt number 2
+04:18.787	ID:1	Radio: info ack not received, send info message again
+04:18.792	ID:1	Radio: message sent to bracelet 2, attempt number 3
+04:18.801	ID:1	Radio: info ack not received, 3 attempts already tried
+04:19.347	ID:3	Timer10: fired
+04:19.353	ID:3	Radio: message sent to bracelet 4, attempt number 1
+04:19.362	ID:3	Radio: info ack not received, send info message again
+04:19.366	ID:3	Radio: message sent to bracelet 4, attempt number 2
+04:19.384	ID:3	Radio: info ack not received, send info message again
+04:19.388	ID:3	Radio: message sent to bracelet 4, attempt number 3
+04:19.404	ID:3	Radio: info ack not received, 3 attempts already tried
+04:28.509	ID:1	Timer10: fired
+04:28.513	ID:1	Radio: message sent to bracelet 2, attempt number 1
+04:28.529	ID:1	Radio: info ack not received, send info message again
+04:28.533	ID:1	Radio: message sent to bracelet 2, attempt number 2
+04:28.548	ID:1	Radio: info ack not received, send info message again
+04:28.553	ID:1	Radio: message sent to bracelet 2, attempt number 3
+04:28.563	ID:1	Radio: info ack not received, 3 attempts already tried
+04:29.113	ID:3	Timer10: fired
+04:29.117	ID:3	Radio: message sent to bracelet 4, attempt number 1
+04:29.135	ID:3	Radio: info ack not received, send info message again
+04:29.140	ID:3	Radio: message sent to bracelet 4, attempt number 2
+04:29.159	ID:3	Radio: info ack not received, send info message again
+04:29.164	ID:3	Radio: message sent to bracelet 4, attempt number 3
+04:29.174	ID:3	Radio: info ack not received, 3 attempts already tried
+04:38.275	ID:1	Timer10: fired
+04:38.279	ID:1	Radio: message sent to bracelet 2, attempt number 1
+04:38.292	ID:1	Radio: info ack not received, send info message again
+04:38.296	ID:1	Radio: message sent to bracelet 2, attempt number 2
+04:38.311	ID:1	Radio: info ack not received, send info message again
+04:38.316	ID:1	Radio: message sent to bracelet 2, attempt number 3
+04:38.327	ID:1	Radio: info ack not received, 3 attempts already tried
+04:38.879	ID:3	Timer10: fired
+04:38.883	ID:3	Radio: message sent to bracelet 4, attempt number 1
+04:38.895	ID:3	Radio: info ack not received, send info message again
+04:38.900	ID:3	Radio: message sent to bracelet 4, attempt number 2
+04:38.910	ID:3	Radio: info ack not received, send info message again
+04:38.915	ID:3	Radio: message sent to bracelet 4, attempt number 3
+04:38.928	ID:3	Radio: info ack not received, 3 attempts already tried
+04:48.040	ID:1	Timer10: fired
+04:48.045	ID:1	Radio: message sent to bracelet 2, attempt number 1
+04:48.055	ID:1	Radio: info ack not received, send info message again
+04:48.059	ID:1	Radio: message sent to bracelet 2, attempt number 2
+04:48.073	ID:1	Radio: info ack not received, send info message again
+04:48.077	ID:1	Radio: message sent to bracelet 2, attempt number 3
+04:48.091	ID:1	Radio: info ack not received, 3 attempts already tried
+04:48.644	ID:3	Timer10: fired
+04:48.649	ID:3	Radio: message sent to bracelet 4, attempt number 1
+04:48.665	ID:3	Radio: info ack not received, send info message again
+04:48.669	ID:3	Radio: message sent to bracelet 4, attempt number 2
+04:48.683	ID:3	Radio: info ack not received, send info message again
+04:48.688	ID:3	Radio: message sent to bracelet 4, attempt number 3
+04:48.705	ID:3	Radio: info ack not received, 3 attempts already tried
+04:57.806	ID:1	Timer10: fired
+04:57.810	ID:1	Radio: message sent to bracelet 2, attempt number 1
+04:57.824	ID:1	Radio: info ack not received, send info message again
+04:57.829	ID:1	Radio: message sent to bracelet 2, attempt number 2
+04:57.839	ID:1	Radio: info ack not received, send info message again
+04:57.844	ID:1	Radio: message sent to bracelet 2, attempt number 3
+04:57.857	ID:1	Radio: info ack not received, 3 attempts already tried
+04:58.410	ID:3	Timer10: fired
+04:58.414	ID:3	Radio: message sent to bracelet 4, attempt number 1
+04:58.432	ID:3	Radio: info ack not received, send info message again
+04:58.436	ID:3	Radio: message sent to bracelet 4, attempt number 2
+04:58.454	ID:3	Radio: info ack not received, send info message again
+04:58.458	ID:3	Radio: message sent to bracelet 4, attempt number 3
+04:58.471	ID:3	Radio: info ack not received, 3 attempts already tried
+05:07.571	ID:1	Timer10: fired
+05:07.576	ID:1	Radio: message sent to bracelet 2, attempt number 1
+05:07.592	ID:1	Radio: info ack not received, send info message again
+05:07.597	ID:1	Radio: message sent to bracelet 2, attempt number 2
+05:07.608	ID:1	Radio: info ack not received, send info message again
+05:07.613	ID:1	Radio: message sent to bracelet 2, attempt number 3
+05:07.623	ID:1	Radio: info ack not received, 3 attempts already tried
+05:08.176	ID:3	Timer10: fired
+05:08.180	ID:3	Radio: message sent to bracelet 4, attempt number 1
+05:08.194	ID:3	Radio: info ack not received, send info message again
+05:08.198	ID:3	Radio: message sent to bracelet 4, attempt number 2
+05:08.217	ID:3	Radio: info ack not received, send info message again
+05:08.222	ID:3	Radio: message sent to bracelet 4, attempt number 3
+05:08.238	ID:3	Radio: info ack not received, 3 attempts already tried
+05:17.337	ID:1	Timer10: fired
+05:17.341	ID:1	Radio: message sent to bracelet 2, attempt number 1
+05:17.357	ID:1	Radio: info ack not received, send info message again
+05:17.361	ID:1	Radio: message sent to bracelet 2, attempt number 2
+05:17.374	ID:1	Radio: info ack not received, send info message again
+05:17.379	ID:1	Radio: message sent to bracelet 2, attempt number 3
+05:17.392	ID:1	Radio: info ack not received, 3 attempts already tried
+05:17.941	ID:3	Timer10: fired
+05:17.945	ID:3	Radio: message sent to bracelet 4, attempt number 1
+05:17.963	ID:3	Radio: info ack not received, send info message again
+05:17.967	ID:3	Radio: message sent to bracelet 4, attempt number 2
+05:17.980	ID:3	Radio: info ack not received, send info message again
+05:17.984	ID:3	Radio: message sent to bracelet 4, attempt number 3
+05:18.001	ID:3	Radio: info ack not received, 3 attempts already tried
+05:27.103	ID:1	Timer10: fired
+05:27.107	ID:1	Radio: message sent to bracelet 2, attempt number 1
+05:27.120	ID:1	Radio: info ack not received, send info message again
+05:27.124	ID:1	Radio: message sent to bracelet 2, attempt number 2
+05:27.137	ID:1	Radio: info ack not received, send info message again
+05:27.141	ID:1	Radio: message sent to bracelet 2, attempt number 3
+05:27.160	ID:1	Radio: info ack not received, 3 attempts already tried
+05:27.707	ID:3	Timer10: fired
+05:27.711	ID:3	Radio: message sent to bracelet 4, attempt number 1
+05:27.727	ID:3	Radio: info ack not received, send info message again
+05:27.731	ID:3	Radio: message sent to bracelet 4, attempt number 2
+05:27.747	ID:3	Radio: info ack not received, send info message again
+05:27.751	ID:3	Radio: message sent to bracelet 4, attempt number 3
+05:27.766	ID:3	Radio: info ack not received, 3 attempts already tried
+05:36.868	ID:1	Timer10: fired
+05:36.873	ID:1	Radio: message sent to bracelet 2, attempt number 1
+05:36.888	ID:1	Radio: info ack not received, send info message again
+05:36.892	ID:1	Radio: message sent to bracelet 2, attempt number 2
+05:36.908	ID:1	Radio: info ack not received, send info message again
+05:36.912	ID:1	Radio: message sent to bracelet 2, attempt number 3
+05:36.927	ID:1	Radio: info ack not received, 3 attempts already tried
+05:37.472	ID:3	Timer10: fired
+05:37.477	ID:3	Radio: message sent to bracelet 4, attempt number 1
+05:37.493	ID:3	Radio: info ack not received, send info message again
+05:37.498	ID:3	Radio: message sent to bracelet 4, attempt number 2
+05:37.510	ID:3	Radio: info ack not received, send info message again
+05:37.515	ID:3	Radio: message sent to bracelet 4, attempt number 3
+05:37.530	ID:3	Radio: info ack not received, 3 attempts already tried
+05:46.634	ID:1	Timer10: fired
+05:46.639	ID:1	Radio: message sent to bracelet 2, attempt number 1
+05:46.650	ID:1	Radio: info ack not received, send info message again
+05:46.654	ID:1	Radio: message sent to bracelet 2, attempt number 2
+05:46.668	ID:1	Radio: info ack not received, send info message again
+05:46.672	ID:1	Radio: message sent to bracelet 2, attempt number 3
+05:46.690	ID:1	Radio: info ack not received, 3 attempts already tried
+05:47.238	ID:3	Timer10: fired
+05:47.242	ID:3	Radio: message sent to bracelet 4, attempt number 1
+05:47.256	ID:3	Radio: info ack not received, send info message again
+05:47.260	ID:3	Radio: message sent to bracelet 4, attempt number 2
+05:47.274	ID:3	Radio: info ack not received, send info message again
+05:47.278	ID:3	Radio: message sent to bracelet 4, attempt number 3
+05:47.295	ID:3	Radio: info ack not received, 3 attempts already tried
+05:56.400	ID:1	Timer10: fired
+05:56.404	ID:1	Radio: message sent to bracelet 2, attempt number 1
+05:56.423	ID:1	Radio: info ack not received, send info message again
+05:56.428	ID:1	Radio: message sent to bracelet 2, attempt number 2
+05:56.437	ID:1	Radio: info ack not received, send info message again
+05:56.442	ID:1	Radio: message sent to bracelet 2, attempt number 3
+05:56.455	ID:1	Radio: info ack not received, 3 attempts already tried
+05:57.004	ID:3	Timer10: fired
+05:57.008	ID:3	Radio: message sent to bracelet 4, attempt number 1
+05:57.026	ID:3	Radio: info ack not received, send info message again
+05:57.031	ID:3	Radio: message sent to bracelet 4, attempt number 2
+05:57.041	ID:3	Radio: info ack not received, send info message again
+05:57.046	ID:3	Radio: message sent to bracelet 4, attempt number 3
+05:57.063	ID:3	Radio: info ack not received, 3 attempts already tried
+06:06.165	ID:1	Timer10: fired
+06:06.170	ID:1	Radio: message sent to bracelet 2, attempt number 1
+06:06.181	ID:1	Radio: info ack not received, send info message again
+06:06.186	ID:1	Radio: message sent to bracelet 2, attempt number 2
+06:06.199	ID:1	Radio: info ack not received, send info message again
+06:06.204	ID:1	Radio: message sent to bracelet 2, attempt number 3
+06:06.220	ID:1	Radio: info ack not received, 3 attempts already tried
+06:06.769	ID:3	Timer10: fired
+06:06.774	ID:3	Radio: message sent to bracelet 4, attempt number 1
+06:06.784	ID:3	Radio: info ack not received, send info message again
+06:06.788	ID:3	Radio: message sent to bracelet 4, attempt number 2
+06:06.805	ID:3	Radio: info ack not received, send info message again
+06:06.811	ID:3	Radio: message sent to bracelet 4, attempt number 3
+06:06.820	ID:3	Radio: info ack not received, 3 attempts already tried
+06:15.931	ID:1	Timer10: fired
+06:15.935	ID:1	Radio: message sent to bracelet 2, attempt number 1
+06:15.951	ID:1	Radio: info ack not received, send info message again
+06:15.955	ID:1	Radio: message sent to bracelet 2, attempt number 2
+06:15.971	ID:1	Radio: info ack not received, send info message again
+06:15.976	ID:1	Radio: message sent to bracelet 2, attempt number 3
+06:15.986	ID:1	Radio: info ack not received, 3 attempts already tried
+06:16.535	ID:3	Timer10: fired
+06:16.539	ID:3	Radio: message sent to bracelet 4, attempt number 1
+06:16.552	ID:3	Radio: info ack not received, send info message again
+06:16.556	ID:3	Radio: message sent to bracelet 4, attempt number 2
+06:16.573	ID:3	Radio: info ack not received, send info message again
+06:16.578	ID:3	Radio: message sent to bracelet 4, attempt number 3
+06:16.590	ID:3	Radio: info ack not received, 3 attempts already tried
+06:25.696	ID:1	Timer10: fired
+06:25.701	ID:1	Radio: message sent to bracelet 2, attempt number 1
+06:25.720	ID:1	Radio: info ack not received, send info message again
+06:25.724	ID:1	Radio: message sent to bracelet 2, attempt number 2
+06:25.741	ID:1	Radio: info ack not received, send info message again
+06:25.746	ID:1	Radio: message sent to bracelet 2, attempt number 3
+06:25.763	ID:1	Radio: info ack not received, 3 attempts already tried
+06:26.301	ID:3	Timer10: fired
+06:26.305	ID:3	Radio: message sent to bracelet 4, attempt number 1
+06:26.320	ID:3	Radio: info ack not received, send info message again
+06:26.325	ID:3	Radio: message sent to bracelet 4, attempt number 2
+06:26.336	ID:3	Radio: info ack not received, send info message again
+06:26.340	ID:3	Radio: message sent to bracelet 4, attempt number 3
+06:26.350	ID:3	Radio: info ack not received, 3 attempts already tried
+06:35.462	ID:1	Timer10: fired
+06:35.466	ID:1	Radio: message sent to bracelet 2, attempt number 1
+06:35.479	ID:1	Radio: info ack not received, send info message again
+06:35.484	ID:1	Radio: message sent to bracelet 2, attempt number 2
+06:35.499	ID:1	Radio: info ack not received, send info message again
+06:35.504	ID:1	Radio: message sent to bracelet 2, attempt number 3
+06:35.515	ID:1	Radio: info ack not received, 3 attempts already tried
+06:36.066	ID:3	Timer10: fired
+06:36.070	ID:3	Radio: message sent to bracelet 4, attempt number 1
+06:36.086	ID:3	Radio: info ack not received, send info message again
+06:36.091	ID:3	Radio: message sent to bracelet 4, attempt number 2
+06:36.108	ID:3	Radio: info ack not received, send info message again
+06:36.113	ID:3	Radio: message sent to bracelet 4, attempt number 3
+06:36.125	ID:3	Radio: info ack not received, 3 attempts already tried
+06:45.228	ID:1	Timer10: fired
+06:45.232	ID:1	Radio: message sent to bracelet 2, attempt number 1
+06:45.251	ID:1	Radio: info ack not received, send info message again
+06:45.255	ID:1	Radio: message sent to bracelet 2, attempt number 2
+06:45.272	ID:1	Radio: info ack not received, send info message again
+06:45.276	ID:1	Radio: message sent to bracelet 2, attempt number 3
+06:45.290	ID:1	Radio: info ack not received, 3 attempts already tried
+06:45.832	ID:3	Timer10: fired
+06:45.836	ID:3	Radio: message sent to bracelet 4, attempt number 1
+06:45.854	ID:3	Radio: info ack not received, send info message again
+06:45.859	ID:3	Radio: message sent to bracelet 4, attempt number 2
+06:45.872	ID:3	Radio: info ack not received, send info message again
+06:45.877	ID:3	Radio: message sent to bracelet 4, attempt number 3
+06:45.891	ID:3	Radio: info ack not received, 3 attempts already tried
+06:54.993	ID:1	Timer10: fired
+06:54.998	ID:1	Radio: message sent to bracelet 2, attempt number 1
+06:55.009	ID:1	Radio: info ack not received, send info message again
+06:55.013	ID:1	Radio: message sent to bracelet 2, attempt number 2
+06:55.029	ID:1	Radio: info ack not received, send info message again
+06:55.033	ID:1	Radio: message sent to bracelet 2, attempt number 3
+06:55.052	ID:1	Radio: info ack not received, 3 attempts already tried
+06:55.597	ID:3	Timer10: fired
+06:55.602	ID:3	Radio: message sent to bracelet 4, attempt number 1
+06:55.614	ID:3	Radio: info ack not received, send info message again
+06:55.618	ID:3	Radio: message sent to bracelet 4, attempt number 2
+06:55.636	ID:3	Radio: info ack not received, send info message again
+06:55.641	ID:3	Radio: message sent to bracelet 4, attempt number 3
+06:55.660	ID:3	Radio: info ack not received, 3 attempts already tried
+07:04.759	ID:1	Timer10: fired
+07:04.763	ID:1	Radio: message sent to bracelet 2, attempt number 1
+07:04.781	ID:1	Radio: info ack not received, send info message again
+07:04.785	ID:1	Radio: message sent to bracelet 2, attempt number 2
+07:04.802	ID:1	Radio: info ack not received, send info message again
+07:04.807	ID:1	Radio: message sent to bracelet 2, attempt number 3
+07:04.820	ID:1	Radio: info ack not received, 3 attempts already tried
+07:05.363	ID:3	Timer10: fired
+07:05.367	ID:3	Radio: message sent to bracelet 4, attempt number 1
+07:05.384	ID:3	Radio: info ack not received, send info message again
+07:05.389	ID:3	Radio: message sent to bracelet 4, attempt number 2
+07:05.399	ID:3	Radio: info ack not received, send info message again
+07:05.403	ID:3	Radio: message sent to bracelet 4, attempt number 3
+07:05.420	ID:3	Radio: info ack not received, 3 attempts already tried
+07:14.525	ID:1	Timer10: fired
+07:14.529	ID:1	Radio: message sent to bracelet 2, attempt number 1
+07:14.542	ID:1	Radio: info ack not received, send info message again
+07:14.546	ID:1	Radio: message sent to bracelet 2, attempt number 2
+07:14.563	ID:1	Radio: info ack not received, send info message again
+07:14.568	ID:1	Radio: message sent to bracelet 2, attempt number 3
+07:14.584	ID:1	Radio: info ack not received, 3 attempts already tried
+07:15.129	ID:3	Timer10: fired
+07:15.133	ID:3	Radio: message sent to bracelet 4, attempt number 1
+07:15.145	ID:3	Radio: info ack not received, send info message again
+07:15.149	ID:3	Radio: message sent to bracelet 4, attempt number 2
+07:15.164	ID:3	Radio: info ack not received, send info message again
+07:15.169	ID:3	Radio: message sent to bracelet 4, attempt number 3
+07:15.183	ID:3	Radio: info ack not received, 3 attempts already tried
+07:24.290	ID:1	Timer10: fired
+07:24.295	ID:1	Radio: message sent to bracelet 2, attempt number 1
+07:24.308	ID:1	Radio: info ack not received, send info message again
+07:24.313	ID:1	Radio: message sent to bracelet 2, attempt number 2
+07:24.328	ID:1	Radio: info ack not received, send info message again
+07:24.332	ID:1	Radio: message sent to bracelet 2, attempt number 3
+07:24.345	ID:1	Radio: info ack not received, 3 attempts already tried
+07:24.894	ID:3	Timer10: fired
+07:24.899	ID:3	Radio: message sent to bracelet 4, attempt number 1
+07:24.905	ID:3	Radio: info ack received
+07:24.905	ID:4	Radio: message received
+07:24.906	ID:4	Child is STANDING [0]
+07:24.908	ID:4	x: -8475, y: -22409
+07:34.056	ID:1	Timer10: fired
+07:34.061	ID:1	Radio: message sent to bracelet 2, attempt number 1
+07:34.070	ID:1	Radio: info ack not received, send info message again
+07:34.075	ID:1	Radio: message sent to bracelet 2, attempt number 2
+07:34.086	ID:1	Radio: info ack not received, send info message again
+07:34.091	ID:1	Radio: message sent to bracelet 2, attempt number 3
+07:34.107	ID:1	Radio: info ack not received, 3 attempts already tried
+07:34.660	ID:3	Timer10: fired
+07:34.664	ID:3	Radio: message sent to bracelet 4, attempt number 1
+07:34.674	ID:3	Radio: info ack received
+07:34.674	ID:4	Radio: message received
+07:34.675	ID:4	ALERT: CHILD FALLING [3]
+07:34.677	ID:4	x: 14765, y: -29375
+07:43.821	ID:1	Timer10: fired
+07:43.826	ID:1	Radio: message sent to bracelet 2, attempt number 1
+07:43.843	ID:1	Radio: info ack not received, send info message again
+07:43.848	ID:1	Radio: message sent to bracelet 2, attempt number 2
+07:43.860	ID:1	Radio: info ack not received, send info message again
+07:43.864	ID:1	Radio: message sent to bracelet 2, attempt number 3
+07:43.877	ID:1	Radio: info ack not received, 3 attempts already tried
+07:44.426	ID:3	Timer10: fired
+07:44.430	ID:3	Radio: message sent to bracelet 4, attempt number 1
+07:44.436	ID:3	Radio: info ack received
+07:44.436	ID:4	Radio: message received
+07:44.437	ID:4	Child is STANDING [0]
+07:44.439	ID:4	x: 26552, y: -24253
+07:53.587	ID:1	Timer10: fired
+07:53.592	ID:1	Radio: message sent to bracelet 2, attempt number 1
+07:53.602	ID:1	Radio: info ack not received, send info message again
+07:53.607	ID:1	Radio: message sent to bracelet 2, attempt number 2
+07:53.617	ID:1	Radio: info ack not received, send info message again
+07:53.621	ID:1	Radio: message sent to bracelet 2, attempt number 3
+07:53.632	ID:1	Radio: info ack not received, 3 attempts already tried
+07:54.191	ID:3	Timer10: fired
+07:54.195	ID:3	Radio: message sent to bracelet 4, attempt number 1
+07:54.204	ID:3	Radio: info ack received
+07:54.204	ID:4	Radio: message received
+07:54.206	ID:4	Child is STANDING [0]
+07:54.207	ID:4	x: 15277, y: -8594
+08:03.353	ID:1	Timer10: fired
+08:03.357	ID:1	Radio: message sent to bracelet 2, attempt number 1
+08:03.376	ID:1	Radio: info ack not received, send info message again
+08:03.381	ID:1	Radio: message sent to bracelet 2, attempt number 2
+08:03.400	ID:1	Radio: info ack not received, send info message again
+08:03.405	ID:1	Radio: message sent to bracelet 2, attempt number 3
+08:03.414	ID:1	Radio: info ack not received, 3 attempts already tried
+08:03.957	ID:3	Timer10: fired
+08:03.961	ID:3	Radio: message sent to bracelet 4, attempt number 1
+08:03.973	ID:3	Radio: info ack received
+08:03.973	ID:4	Radio: message received
+08:03.974	ID:4	Child is RUNNING [2]
+08:03.976	ID:4	x: -19836, y: 5622
+08:13.118	ID:1	Timer10: fired
+08:13.123	ID:1	Radio: message sent to bracelet 2, attempt number 1
+08:13.137	ID:1	Radio: info ack not received, send info message again
+08:13.142	ID:1	Radio: message sent to bracelet 2, attempt number 2
+08:13.153	ID:1	Radio: info ack not received, send info message again
+08:13.157	ID:1	Radio: message sent to bracelet 2, attempt number 3
+08:13.175	ID:1	Radio: info ack not received, 3 attempts already tried
+08:13.722	ID:3	Timer10: fired
+08:13.727	ID:3	Radio: message sent to bracelet 4, attempt number 1
+08:13.733	ID:3	Radio: info ack received
+08:13.733	ID:4	Radio: message received
+08:13.734	ID:4	Child is RUNNING [2]
+08:13.736	ID:4	x: 14638, y: 5401
+08:22.884	ID:1	Timer10: fired
+08:22.888	ID:1	Radio: message sent to bracelet 2, attempt number 1
+08:22.904	ID:1	Radio: info ack not received, send info message again
+08:22.909	ID:1	Radio: message sent to bracelet 2, attempt number 2
+08:22.923	ID:1	Radio: info ack not received, send info message again
+08:22.927	ID:1	Radio: message sent to bracelet 2, attempt number 3
+08:22.946	ID:1	Radio: info ack not received, 3 attempts already tried
+08:23.488	ID:3	Timer10: fired
+08:23.492	ID:3	Radio: message sent to bracelet 4, attempt number 1
+08:23.501	ID:3	Radio: info ack received
+08:23.501	ID:4	Radio: message received
+08:23.502	ID:4	Child is RUNNING [2]
+08:23.504	ID:4	x: -23567, y: 17439
+08:32.650	ID:1	Timer10: fired
+08:32.654	ID:1	Radio: message sent to bracelet 2, attempt number 1
+08:32.666	ID:1	Radio: info ack not received, send info message again
+08:32.670	ID:1	Radio: message sent to bracelet 2, attempt number 2
+08:32.681	ID:1	Radio: info ack not received, send info message again
+08:32.685	ID:1	Radio: message sent to bracelet 2, attempt number 3
+08:32.699	ID:1	Radio: info ack not received, 3 attempts already tried
+08:33.254	ID:3	Timer10: fired
+08:33.259	ID:3	Radio: message sent to bracelet 4, attempt number 1
+08:33.262	ID:3	Radio: info ack received
+08:33.262	ID:4	Radio: message received
+08:33.263	ID:4	Child is RUNNING [2]
+08:33.265	ID:4	x: 23396, y: 2564
+08:42.415	ID:1	Timer10: fired
+08:42.420	ID:1	Radio: message sent to bracelet 2, attempt number 1
+08:42.430	ID:1	Radio: info ack not received, send info message again
+08:42.434	ID:1	Radio: message sent to bracelet 2, attempt number 2
+08:42.453	ID:1	Radio: info ack not received, send info message again
+08:42.457	ID:1	Radio: message sent to bracelet 2, attempt number 3
+08:42.470	ID:1	Radio: info ack not received, 3 attempts already tried
+08:43.019	ID:3	Timer10: fired
+08:43.024	ID:3	Radio: message sent to bracelet 4, attempt number 1
+08:43.028	ID:3	Radio: info ack received
+08:43.028	ID:4	Radio: message received
+08:43.029	ID:4	Child is STANDING [0]
+08:43.031	ID:4	x: 15867, y: 23057
+08:52.181	ID:1	Timer10: fired
+08:52.185	ID:1	Radio: message sent to bracelet 2, attempt number 1
+08:52.192	ID:1	Radio: info ack received
+08:52.192	ID:2	Radio: message received
+08:52.194	ID:2	Child is STANDING [0]
+08:52.195	ID:2	x: -7066, y: 8848
+08:52.785	ID:3	Timer10: fired
+08:52.789	ID:3	Radio: message sent to bracelet 4, attempt number 1
+08:52.800	ID:3	Radio: info ack received
+08:52.800	ID:4	Radio: message received
+08:52.801	ID:4	Child is STANDING [0]
+08:52.802	ID:4	x: 9513, y: -6046
+09:01.946	ID:1	Timer10: fired
+09:01.951	ID:1	Radio: message sent to bracelet 2, attempt number 1
+09:01.955	ID:1	Radio: info ack received
+09:01.955	ID:2	Radio: message received
+09:01.956	ID:2	ALERT: CHILD FALLING [3]
+09:01.958	ID:2	x: 6173, y: 16275
+09:02.551	ID:3	Timer10: fired
+09:02.556	ID:3	Radio: message sent to bracelet 4, attempt number 1
+09:02.558	ID:3	Radio: info ack received
+09:02.558	ID:4	Radio: message received
+09:02.559	ID:4	Child is STANDING [0]
+09:02.561	ID:4	x: 24947, y: -14644
+09:11.712	ID:1	Timer10: fired
+09:11.716	ID:1	Radio: message sent to bracelet 2, attempt number 1
+09:11.726	ID:1	Radio: info ack received
+09:11.726	ID:2	Radio: message received
+09:11.727	ID:2	Child is RUNNING [2]
+09:11.729	ID:2	x: 27572, y: 5741
+09:12.316	ID:3	Timer10: fired
+09:12.320	ID:3	Radio: message sent to bracelet 4, attempt number 1
+09:12.326	ID:3	Radio: info ack received
+09:12.326	ID:4	Radio: message received
+09:12.327	ID:4	Child is RUNNING [2]
+09:12.329	ID:4	x: 24618, y: 30166
+09:21.478	ID:1	Timer10: fired
+09:21.482	ID:1	Radio: message sent to bracelet 2, attempt number 1
+09:21.488	ID:1	Radio: info ack received
+09:21.488	ID:2	Radio: message received
+09:21.489	ID:2	Child is STANDING [0]
+09:21.491	ID:2	x: -14568, y: 842
+09:22.082	ID:3	Timer10: fired
+09:22.086	ID:3	Radio: message sent to bracelet 4, attempt number 1
+09:22.098	ID:3	Radio: info ack received
+09:22.098	ID:4	Radio: message received
+09:22.099	ID:4	Child is RUNNING [2]
+09:22.101	ID:4	x: 9324, y: 27004
+09:31.243	ID:1	Timer10: fired
+09:31.248	ID:1	Radio: message sent to bracelet 2, attempt number 1
+09:31.260	ID:1	Radio: info ack received
+09:31.260	ID:2	Radio: message received
+09:31.261	ID:2	Child is STANDING [0]
+09:31.263	ID:2	x: -22256, y: -26124
+09:31.847	ID:3	Timer10: fired
+09:31.852	ID:3	Radio: message sent to bracelet 4, attempt number 1
+09:31.864	ID:3	Radio: info ack received
+09:31.864	ID:4	Radio: message received
+09:31.865	ID:4	Child is RUNNING [2]
+09:31.866	ID:4	x: 15030, y: -15660
+09:41.009	ID:1	Timer10: fired
+09:41.013	ID:1	Radio: message sent to bracelet 2, attempt number 1
+09:41.019	ID:1	Radio: info ack received
+09:41.019	ID:2	Radio: message received
+09:41.020	ID:2	Child is WALKING [1]
+09:41.021	ID:2	x: 21230, y: -16618
+09:41.613	ID:3	Timer10: fired
+09:41.617	ID:3	Radio: message sent to bracelet 4, attempt number 1
+09:41.626	ID:3	Radio: info ack received
+09:41.626	ID:4	Radio: message received
+09:41.627	ID:4	Child is RUNNING [2]
+09:41.629	ID:4	x: -14440, y: -4873
+09:50.775	ID:1	Timer10: fired
+09:50.779	ID:1	Radio: message sent to bracelet 2, attempt number 1
+09:50.786	ID:1	Radio: info ack received
+09:50.786	ID:2	Radio: message received
+09:50.787	ID:2	Child is STANDING [0]
+09:50.789	ID:2	x: 12871, y: -1495
+09:51.379	ID:3	Timer10: fired
+09:51.383	ID:3	Radio: message sent to bracelet 4, attempt number 1
+09:51.391	ID:3	Radio: info ack received
+09:51.392	ID:4	Radio: message received
+09:51.393	ID:4	Child is RUNNING [2]
+09:51.394	ID:4	x: 5439, y: 1580
+10:00.540	ID:1	Timer10: fired
+10:00.545	ID:1	Radio: message sent to bracelet 2, attempt number 1
+10:00.550	ID:1	Radio: info ack received
+10:00.550	ID:2	Radio: message received
+10:00.551	ID:2	Child is RUNNING [2]
+10:00.553	ID:2	x: 28458, y: 14022
+10:01.144	ID:3	Timer10: fired
+10:01.149	ID:3	Radio: message sent to bracelet 4, attempt number 1
+10:01.159	ID:3	Radio: info ack received
+10:01.159	ID:4	Radio: message received
+10:01.160	ID:4	Child is STANDING [0]
+10:01.162	ID:4	x: -259, y: -11060
+10:10.306	ID:1	Timer10: fired
+10:10.310	ID:1	Radio: message sent to bracelet 2, attempt number 1
+10:10.316	ID:1	Radio: info ack received
+10:10.316	ID:2	Radio: message received
+10:10.317	ID:2	Child is WALKING [1]
+10:10.318	ID:2	x: 1439, y: 13441
+10:10.910	ID:3	Timer10: fired
+10:10.914	ID:3	Radio: message sent to bracelet 4, attempt number 1
+10:10.925	ID:3	Radio: info ack received
+10:10.925	ID:4	Radio: message received
+10:10.926	ID:4	Child is WALKING [1]
+10:10.927	ID:4	x: 17291, y: 24688
+10:20.071	ID:1	Timer10: fired
+10:20.077	ID:1	Radio: message sent to bracelet 2, attempt number 1
+10:20.079	ID:1	Radio: info ack received
+10:20.079	ID:2	Radio: message received
+10:20.080	ID:2	Child is RUNNING [2]
+10:20.081	ID:2	x: 26235, y: 15591
+10:20.676	ID:3	Timer10: fired
+10:20.680	ID:3	Radio: message sent to bracelet 4, attempt number 1
+10:20.686	ID:3	Radio: info ack received
+10:20.686	ID:4	Radio: message received
+10:20.687	ID:4	Child is STANDING [0]
+10:20.688	ID:4	x: -13391, y: 2725
+10:29.837	ID:1	Timer10: fired
+10:29.841	ID:1	Radio: message sent to bracelet 2, attempt number 1
+10:29.851	ID:1	Radio: info ack received
+10:29.851	ID:2	Radio: message received
+10:29.852	ID:2	Child is RUNNING [2]
+10:29.854	ID:2	x: -22342, y: 24439
+10:30.441	ID:3	Timer10: fired
+10:30.445	ID:3	Radio: message sent to bracelet 4, attempt number 1
+10:30.452	ID:3	Radio: info ack received
+10:30.452	ID:4	Radio: message received
+10:30.453	ID:4	Child is RUNNING [2]
+10:30.455	ID:4	x: 32508, y: 2128
+10:39.603	ID:1	Timer10: fired
+10:39.608	ID:1	Radio: message sent to bracelet 2, attempt number 1
+10:39.611	ID:1	Radio: info ack received
+10:39.611	ID:2	Radio: message received
+10:39.613	ID:2	Child is WALKING [1]
+10:39.614	ID:2	x: -15689, y: -19270
+10:40.207	ID:3	Timer10: fired
+10:40.211	ID:3	Radio: message sent to bracelet 4, attempt number 1
+10:40.218	ID:3	Radio: info ack received
+10:40.219	ID:4	Radio: message received
+10:40.220	ID:4	Child is STANDING [0]
+10:40.221	ID:4	x: -1113, y: -13987
+10:49.368	ID:1	Timer10: fired
+10:49.373	ID:1	Radio: message sent to bracelet 2, attempt number 1
+10:49.391	ID:1	Radio: info ack not received, send info message again
+10:49.395	ID:1	Radio: message sent to bracelet 2, attempt number 2
+10:49.409	ID:1	Radio: info ack not received, send info message again
+10:49.413	ID:1	Radio: message sent to bracelet 2, attempt number 3
+10:49.427	ID:1	Radio: info ack not received, 3 attempts already tried
+10:49.972	ID:3	Timer10: fired
+10:49.977	ID:3	Radio: message sent to bracelet 4, attempt number 1
+10:49.990	ID:3	Radio: info ack not received, send info message again
+10:49.995	ID:3	Radio: message sent to bracelet 4, attempt number 2
+10:50.007	ID:3	Radio: info ack not received, send info message again
+10:50.011	ID:3	Radio: message sent to bracelet 4, attempt number 3
+10:50.029	ID:3	Radio: info ack not received, 3 attempts already tried
+10:59.134	ID:1	Timer10: fired
+10:59.138	ID:1	Radio: message sent to bracelet 2, attempt number 1
+10:59.152	ID:1	Radio: info ack not received, send info message again
+10:59.157	ID:1	Radio: message sent to bracelet 2, attempt number 2
+10:59.170	ID:1	Radio: info ack not received, send info message again
+10:59.175	ID:1	Radio: message sent to bracelet 2, attempt number 3
+10:59.184	ID:1	Radio: info ack not received, 3 attempts already tried
+10:59.738	ID:3	Timer10: fired
+10:59.742	ID:3	Radio: message sent to bracelet 4, attempt number 1
+10:59.759	ID:3	Radio: info ack not received, send info message again
+10:59.763	ID:3	Radio: message sent to bracelet 4, attempt number 2
+10:59.778	ID:3	Radio: info ack not received, send info message again
+10:59.783	ID:3	Radio: message sent to bracelet 4, attempt number 3
+10:59.794	ID:3	Radio: info ack not received, 3 attempts already tried
+11:08.900	ID:1	Timer10: fired
+11:08.905	ID:1	Radio: message sent to bracelet 2, attempt number 1
+11:08.915	ID:1	Radio: info ack not received, send info message again
+11:08.920	ID:1	Radio: message sent to bracelet 2, attempt number 2
+11:08.938	ID:1	Radio: info ack not received, send info message again
+11:08.942	ID:1	Radio: message sent to bracelet 2, attempt number 3
+11:08.954	ID:1	Radio: info ack not received, 3 attempts already tried
+11:09.504	ID:3	Timer10: fired
+11:09.508	ID:3	Radio: message sent to bracelet 4, attempt number 1
+11:09.527	ID:3	Radio: info ack not received, send info message again
+11:09.531	ID:3	Radio: message sent to bracelet 4, attempt number 2
+11:09.550	ID:3	Radio: info ack not received, send info message again
+11:09.555	ID:3	Radio: message sent to bracelet 4, attempt number 3
+11:09.565	ID:3	Radio: info ack not received, 3 attempts already tried
+11:18.665	ID:1	Timer10: fired
+11:18.670	ID:1	Radio: message sent to bracelet 2, attempt number 1
+11:18.688	ID:1	Radio: info ack not received, send info message again
+11:18.692	ID:1	Radio: message sent to bracelet 2, attempt number 2
+11:18.709	ID:1	Radio: info ack not received, send info message again
+11:18.714	ID:1	Radio: message sent to bracelet 2, attempt number 3
+11:18.725	ID:1	Radio: info ack not received, 3 attempts already tried
+11:19.269	ID:3	Timer10: fired
+11:19.274	ID:3	Radio: message sent to bracelet 4, attempt number 1
+11:19.290	ID:3	Radio: info ack not received, send info message again
+11:19.294	ID:3	Radio: message sent to bracelet 4, attempt number 2
+11:19.314	ID:3	Radio: info ack not received, send info message again
+11:19.318	ID:3	Radio: message sent to bracelet 4, attempt number 3
+11:19.333	ID:3	Radio: info ack not received, 3 attempts already tried
+11:28.431	ID:1	Timer10: fired
+11:28.436	ID:1	Radio: message sent to bracelet 2, attempt number 1
+11:28.445	ID:1	Radio: info ack not received, send info message again
+11:28.450	ID:1	Radio: message sent to bracelet 2, attempt number 2
+11:28.461	ID:1	Radio: info ack not received, send info message again
+11:28.465	ID:1	Radio: message sent to bracelet 2, attempt number 3
+11:28.478	ID:1	Radio: info ack not received, 3 attempts already tried
+11:29.035	ID:3	Timer10: fired
+11:29.039	ID:3	Radio: message sent to bracelet 4, attempt number 1
+11:29.054	ID:3	Radio: info ack not received, send info message again
+11:29.059	ID:3	Radio: message sent to bracelet 4, attempt number 2
+11:29.070	ID:3	Radio: info ack not received, send info message again
+11:29.075	ID:3	Radio: message sent to bracelet 4, attempt number 3
+11:29.086	ID:3	Radio: info ack not received, 3 attempts already tried
+11:38.196	ID:1	Timer10: fired
+11:38.201	ID:1	Radio: message sent to bracelet 2, attempt number 1
+11:38.206	ID:2	Timer60: fired
+11:38.206	ID:2	ALERT: CHILD MISSING
+11:38.209	ID:2	Last known position x: -15689, y: -19270
+11:38.216	ID:1	Radio: info ack not received, send info message again
+11:38.221	ID:1	Radio: message sent to bracelet 2, attempt number 2
+11:38.238	ID:1	Radio: info ack not received, send info message again
+11:38.243	ID:1	Radio: message sent to bracelet 2, attempt number 3
+11:38.255	ID:1	Radio: info ack not received, 3 attempts already tried
+11:38.801	ID:3	Timer10: fired
+11:38.805	ID:3	Radio: message sent to bracelet 4, attempt number 1
+11:38.812	ID:4	Timer60: fired
+11:38.813	ID:4	ALERT: CHILD MISSING
+11:38.815	ID:4	Last known position x: -1113, y: -13987
+11:38.821	ID:3	Radio: info ack not received, send info message again
+11:38.825	ID:3	Radio: message sent to bracelet 4, attempt number 2
+11:38.839	ID:3	Radio: info ack not received, send info message again
+11:38.844	ID:3	Radio: message sent to bracelet 4, attempt number 3
+11:38.857	ID:3	Radio: info ack not received, 3 attempts already tried
+11:47.962	ID:1	Timer10: fired
+11:47.966	ID:1	Radio: message sent to bracelet 2, attempt number 1
+11:47.981	ID:1	Radio: info ack not received, send info message again
+11:47.986	ID:1	Radio: message sent to bracelet 2, attempt number 2
+11:48.004	ID:1	Radio: info ack not received, send info message again
+11:48.009	ID:1	Radio: message sent to bracelet 2, attempt number 3
+11:48.021	ID:1	Radio: info ack not received, 3 attempts already tried
+11:48.566	ID:3	Timer10: fired
+11:48.570	ID:3	Radio: message sent to bracelet 4, attempt number 1
+11:48.583	ID:3	Radio: info ack not received, send info message again
+11:48.588	ID:3	Radio: message sent to bracelet 4, attempt number 2
+11:48.605	ID:3	Radio: info ack not received, send info message again
+11:48.610	ID:3	Radio: message sent to bracelet 4, attempt number 3
+11:48.629	ID:3	Radio: info ack not received, 3 attempts already tried
