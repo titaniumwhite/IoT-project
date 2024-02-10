@@ -1,4 +1,4 @@
-# Software Prototype for IoT Smart Bracelets for Children Proximity #
+# Smart Bracelets #
 ### @Politecnico di Milano, Academic Year 2021-2022, Internet of Things course ###
 The aim of this project is to design, implement and test a software prototype for a set of smart bracelets.  
 These bracelets are used by parents to keep track of their children’s position and to alert them when a child goes too far. Parent and child bracelets are coupled together in order to exchange these alerts. 
